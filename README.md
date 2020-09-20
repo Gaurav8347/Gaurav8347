@@ -6,7 +6,9 @@
 - 👯  Everything i love from psychology to mythology.
 - 🤔 I’m looking for help on Deep Learning,OpenCv.
 - 💬 Ask me about anything except my  future Plans...
+- Python, Machine Learning, Deep Learning, Opencv, NLP, Keras, Tensorflow.
 - 📫 How to reach me: gauravsonawane8347@gmail.com
+
                        https://www.linkedin.com/in/gaurav-r-sonawane-866823190
 -
 - ⚡ Fun fact: *Never remember any logic always try to create new 😄
