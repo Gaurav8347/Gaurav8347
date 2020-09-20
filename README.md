@@ -11,8 +11,8 @@
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[LinkedIn Id](https://www.linkedin.com/in/gaurav-r-sonawane-866823190) <br />
                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-[Instagram Id](https://www.instagram.com/gauravsonawane98/) <br />
-- ⚡ Fun fact: *Never remember any logic always try to create new 😄
-                *Love to start from scratch and seeing  building the empire..
+- ⚡ Fun fact: *Never remember any logic always try to create new 😄 <br/>
+                *Love to start from scratch and seeing  building the empire.. <br/>
                *Love for QZUIPM Key is +1 Caesar cipher...
 
 
