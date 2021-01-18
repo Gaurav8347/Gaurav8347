@@ -1,7 +1,7 @@
 ### Hi there 👋
 ***"IF YOU DON’T FEED YOUR MIND WITH SUCCESS. IT WILL ROT WITH MEDIOCRITY!”***
 
-- 🔭 I’m currently working in ExcleR Solutions Bangalore.
+- 🔭 I’m currently working at ExcleR Solutions Bangalore.
 - 🌱 I’m currently learning how to learn efficiently.
 - 👯  Everything i love from psychology to mythology.
 - 🤔 I’m looking for help on Deep Learning,OpenCv.
